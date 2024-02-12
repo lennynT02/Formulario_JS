@@ -1,0 +1,47 @@
+main {
+  height: 100%;
+}
+header{
+  background-color: rgb(54, 108, 133);
+  padding: 10px;
+  color: azure;
+
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+  }
+  .menu li {
+    float: left; 
+  }
+  
+  .menu li a {
+    background-color: rgb(255, 220, 176);
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .menu li a:hover {
+    background-color: rgb(54, 108, 133);
+    color: white;
+  }
+  .home{
+    color: rgb(255, 255, 255);
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .home:hover{
+    background-color: rgb(255, 220, 176);
+    color: rgb(0, 0, 0);
+  }
+  #contenido {
+    width: 100%;
+    height: 100vh;
+    border: none; 
+    overflow: hidden; 
+  }

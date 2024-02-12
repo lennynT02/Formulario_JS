@@ -1,0 +1,48 @@
+header{
+    background-color: rgb(54, 108, 133);
+    padding: 10px;
+    color: azure;
+}
+main{
+    background-image: url(../img/fondo.png);
+    margin-bottom: 0;
+}
+.home{
+    color: rgb(255, 255, 255);
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.home:hover{
+    background-color: rgb(255, 220, 176);
+    color: rgb(0, 0, 0);
+}
+.container{
+    background-color: rgba(255, 219, 176, 0.671);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 80%;
+    margin-bottom: 30px;
+}
+.container h2{
+    text-align: center;
+}
+.formularios img{
+    border-radius: 20px;
+    width: 100%;
+    height: auto;
+}
+footer{
+    background-color: rgb(54, 108, 133);
+    padding: 10px;
+    color: azure;
+    margin-top: 0;
+}
+.redes {
+    font-size: 20px;
+    text-align: center
+}
+.redes a{
+    color: rgb(37, 69, 83);
+    text-decoration: none;
+    margin: 0 10px;
+}
